@@ -68,13 +68,13 @@
     font-weight: 600;
 }
 
-.productdisplay-right-sizes{
+.productdisplay-right-size{
     display: flex;
     margin: 30px 0px;
     gap: 20px;
 }
 
-.productdisplay-right-sizes div{
+.productdisplay-right-size div{
     padding: 18px 24px;
     background: #fbfbfb;
     border: 1px solid #ebebeb;
